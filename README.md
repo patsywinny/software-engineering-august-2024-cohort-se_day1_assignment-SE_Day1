@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-software engineering is to design,development,testing and maintainance of software applications.
+software engineering is the design,development,testing and maintainance of software applications.
 It is important by enabling the creation of various software applications and systems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
